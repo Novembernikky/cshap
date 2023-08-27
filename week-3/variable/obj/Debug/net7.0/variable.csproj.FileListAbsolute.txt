@@ -1,0 +1,14 @@
+C:\cshap\week-3\variable\bin\Debug\net7.0\variable.exe
+C:\cshap\week-3\variable\bin\Debug\net7.0\variable.deps.json
+C:\cshap\week-3\variable\bin\Debug\net7.0\variable.runtimeconfig.json
+C:\cshap\week-3\variable\bin\Debug\net7.0\variable.dll
+C:\cshap\week-3\variable\bin\Debug\net7.0\variable.pdb
+C:\cshap\week-3\variable\obj\Debug\net7.0\variable.GeneratedMSBuildEditorConfig.editorconfig
+C:\cshap\week-3\variable\obj\Debug\net7.0\variable.AssemblyInfoInputs.cache
+C:\cshap\week-3\variable\obj\Debug\net7.0\variable.AssemblyInfo.cs
+C:\cshap\week-3\variable\obj\Debug\net7.0\variable.csproj.CoreCompileInputs.cache
+C:\cshap\week-3\variable\obj\Debug\net7.0\variable.dll
+C:\cshap\week-3\variable\obj\Debug\net7.0\refint\variable.dll
+C:\cshap\week-3\variable\obj\Debug\net7.0\variable.pdb
+C:\cshap\week-3\variable\obj\Debug\net7.0\variable.genruntimeconfig.cache
+C:\cshap\week-3\variable\obj\Debug\net7.0\ref\variable.dll
